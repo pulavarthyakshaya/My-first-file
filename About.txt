@@ -1,0 +1,3 @@
+Name = Pulavarthy Akshaya
+Course = Bsc Computer Science
+One thing Learned about GitHub = Learned how to create a GitHub account and how to upload a file in GitHub and learned how to commit the changes of the file.
