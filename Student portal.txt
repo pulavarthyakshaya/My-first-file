@@ -1,0 +1,5 @@
+Name = Pulavarthy Akshaya
+College Name = Aditya degree college
+Email id of college = aditya.ac.in
+Phone number=0884 234739
+
